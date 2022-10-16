@@ -1,4 +1,4 @@
-// count print using recursion
+// nTo1Print using recursion
 
 #include <bits/stdc++.h>
 using namespace std;
